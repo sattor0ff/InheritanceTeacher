@@ -1,0 +1,15 @@
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\bin\Debug\net7.0\MainApp.exe
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\bin\Debug\net7.0\MainApp.deps.json
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\bin\Debug\net7.0\MainApp.runtimeconfig.json
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\bin\Debug\net7.0\MainApp.dll
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\bin\Debug\net7.0\MainApp.pdb
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\obj\Debug\net7.0\MainApp.csproj.AssemblyReference.cache
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\obj\Debug\net7.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfoInputs.cache
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfo.cs
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\obj\Debug\net7.0\MainApp.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\obj\Debug\net7.0\MainApp.dll
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\obj\Debug\net7.0\refint\MainApp.dll
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\obj\Debug\net7.0\MainApp.pdb
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\obj\Debug\net7.0\MainApp.genruntimeconfig.cache
+D:\CSharpPractices\InheritanceTeacher27.12\MainApp\obj\Debug\net7.0\ref\MainApp.dll
